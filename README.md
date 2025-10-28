@@ -16,17 +16,17 @@ This is an assignment project showcasing a complete employee management system w
 
 ### Dashboard View
 
-![Employee Dashboard](Screenshot 2025-10-29 001428.png)
+<img src="public\dashboard.png" width="600"/>
 _Main dashboard showing employee cards with search and instructions_
 
 ### Employee Cards
 
-![Employee Cards](Screenshot 2025-10-29 001500.png)
+<img src="public\cards.png" width="600"/>
 _Grid layout of employee cards with Edit and Delete buttons_
 
 ### Employee Detail View
 
-![Employee Detail](Screenshot 2025-10-29 001517.png)
+<img src="public\employeeDetail.png" width="600"/>
 _Detailed view of selected employee with back navigation_
 
 ## 📄 License
